@@ -1,1 +1,12 @@
-False-Jelenleg nem használhatod ezt a programot!
+False
+Jelenleg nem használhatod ezt a programot!
+1 lampa fel
+1 lampa le
+2 lampa fel
+2 lampa le
+3 lampa fel
+3 lampa le
+4 lampa fel
+4 lampa le
+5 lampa fel
+5 lampa le
