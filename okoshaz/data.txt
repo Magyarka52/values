@@ -1,13 +1,13 @@
 notFalse
 Jelenleg nem használhatod ezt a programot!
 
-1 Lámpa fel
-1 Lámpa Le
-2 Lámpa fel
-2 Lámpa Le
-3 Lámpa fel
-3 Lámpa Le
-4 Lámpa fel
-4 Lámpa Le
-5 Lámpa fel
-5 Lámpa Le
+Ajtó Lámpa fel
+Ajtó Lámpa Le
+Bal Lámpa fel
+Bal Lámpa Le
+Hátsó Lámpa fel
+Hátsó Lámpa Le
+Jobb Lámpa fel
+Jobb Lámpa Le
+Elülső Lámpa fel
+Elülső Lámpa Le
