@@ -1,5 +1,6 @@
 notFalse
 Jelenleg nem használhatod ezt a programot!
+
 1 lampa fel
 1 lampa le
 2 lampa fel
